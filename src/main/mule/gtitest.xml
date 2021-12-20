@@ -19,5 +19,9 @@ output application/java
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
-	</flow>
+		<choice doc:name="Choice" doc:id="46d7d50e-6efb-46fa-aa74-36f601489bab" >
+			<when />
+		</choice>
+	
+</flow>
 </mule>
